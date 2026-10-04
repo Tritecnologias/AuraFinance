@@ -1,0 +1,6 @@
+{
+  "name": "Aura Finance - Gestão Financeira Inteligente",
+  "description": "Aplicativo web de gestão financeira pessoal completo e minimalista para controle de contas, receitas, despesas, faturas de cartão de crédito e orçamentos mensais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
